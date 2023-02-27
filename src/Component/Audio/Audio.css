@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+.styleOfAudio{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+.margin{
+    padding-top: 50px;
+}
+.audioDiv{
+    margin: 0px auto;
+    width: 800px;
+    height: 1000px;
+    background: #4C4C4C;
+    border-radius: 15px;
+}
+.textOfDivStyle{
+    
+    padding: 20px 0;
+}
+.styleOfIcon{
+    width: 40px;
+    height: 40px;
+    color: slategrey;
+    padding: 20px;
+}
+.buttonNextAndPrevious{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sliderAudio{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 95%;
+}
+.slidecontainer {
+    width: 500px;
+}
+.songNameStyle{
+    padding: 50px 0;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    color: black;
+    padding: 15px;
+}
+.imgStyle{
+    border-radius: 15px;
+    padding: 50px;
+    height: 500px;
+    width: 450px;
+    box-shadow: 0px 5px 10px 5px #000;
+}
+.styleOfTime{
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+}
+.saveSongStyle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.styleOfIconHref{
+    padding-top: 15px;
+    width: 80px;
+    height: 80px;
+    color: grey;
+}
